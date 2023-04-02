@@ -1,4 +1,2 @@
-import "./style.css"
-import { camelCase } from "lodash";
-
-console.log(camelCase('chochocho'))
+import './createBaseDivs.js'
+import './style.css';
